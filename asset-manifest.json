@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/SocialSync-Dashboard/static/css/main.4b6f6a21.css",
-    "main.js": "/SocialSync-Dashboard/static/js/main.966f71ca.js",
+    "main.js": "/SocialSync-Dashboard/static/js/main.f670f619.js",
     "index.html": "/SocialSync-Dashboard/index.html",
     "main.4b6f6a21.css.map": "/SocialSync-Dashboard/static/css/main.4b6f6a21.css.map",
-    "main.966f71ca.js.map": "/SocialSync-Dashboard/static/js/main.966f71ca.js.map"
+    "main.f670f619.js.map": "/SocialSync-Dashboard/static/js/main.f670f619.js.map"
   },
   "entrypoints": [
     "static/css/main.4b6f6a21.css",
-    "static/js/main.966f71ca.js"
+    "static/js/main.f670f619.js"
   ]
 }
